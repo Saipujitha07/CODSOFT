@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.img1 {
+    height: 30px;
+    width: 40px;
+}
+
+.main1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size: cover;
+    height: 90vh;
+}
+
+.h1 {
+    color: white;
+    font-family: "roboto";
+    font-weight: bold
+}
+
+.button1 {
+    background-color: #1a2137;
+    height: 30px;
+    width: 130px;
+    border: 0px;
+    color: white;
+    font-family: "roboto";
+}
+
+.h2 {
+    color: #1f2933;
+    font-size: 30px;
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.p2 {
+    color: #7b8794;
+    font-size: 20px;
+    font-family: "roboto";
+}
+
+.h22 {
+    color: #1f2933;
+    font-size: 30px;
+    font-family: "roboto";
+    padding-left:120px;
+}
+
+.card2 {
+    background-color: white;
+}
+
+.img2 {
+    height: 70px;
+    width: 70px;
+    background-size: cover;
+}
+
+.spa2 {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.h3 {
+    color: #1f2933;
+    font-size: 30px;
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.p3 {
+    color: #1f2933;
+    font-size: 20px;
+    font-family: "roboto";
+}
+
+.vr-kit-card-image {
+    height: 270px;
+    width: 220px;
+    background-size: cover;
+}
+
+.img4 {
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+}
+
+.h4 {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.p4 {
+    font-family: "Roboto";
+    font-size: 23px;
+    color: #7b8794;
+}
+
+.button4 {
+    background-color: #1a2137;
+    color: white;
+    border-width: 0px;
+    height: 38px;
+    width: 120px;
+    border-radius: 5px;
+}
